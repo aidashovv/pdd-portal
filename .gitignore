@@ -1,0 +1,12 @@
+.env
+.env.*
+!.env.example
+
+.out/
+.cache/
+
+node_modules/
+dist/
+coverage/
+
+.DS_Store
